@@ -4,6 +4,7 @@
 			"id": 0,
 			"title": "Hotel Rotana",
 			"address": "Hotel Rotana",
+			"image": "",
 			"isOngoing": true,
 			"": {},
 			"rooms": [
@@ -145,6 +146,7 @@
 			"id": 1,
 			"title": "Hotel Rotana",
 			"address": "Hotel Rotana",
+			"image": "",
 			"isOngoing": true,
 			"": {},
 			"rooms": [
@@ -286,6 +288,7 @@
 			"id": 2,
 			"title": "Crown Beach Hotel Maldives",
 			"address": "Crown Beach Hotel Maldives",
+			"image": "",
 			"isOngoing": false,
 			"": {},
 			"rooms": [
@@ -427,6 +430,7 @@
 			"id": 3,
 			"title": "Crown Beach Hotel Maldives",
 			"address": "Crown Beach Hotel Maldives",
+			"image": "",
 			"isOngoing": false,
 			"": {},
 			"rooms": [
@@ -568,6 +572,7 @@
 			"id": 4,
 			"title": "Crown Beach Hotel Maldives",
 			"address": "Crown Beach Hotel Maldives",
+			"image": "",
 			"isOngoing": true,
 			"": {},
 			"rooms": [
@@ -709,6 +714,7 @@
 			"id": 5,
 			"title": "Crown Beach Hotel Maldives",
 			"address": "Crown Beach Hotel Maldives",
+			"image": "",
 			"isOngoing": true,
 			"": {},
 			"rooms": [
@@ -850,6 +856,7 @@
 			"id":6,
 			"title": "Crown Beach Hotel Maldives",
 			"address": "Crown Beach Hotel Maldives",
+			"image": "",
 			"isOngoing": true,
 			"": {},
 			"rooms": [
