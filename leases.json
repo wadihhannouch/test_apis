@@ -1,0 +1,991 @@
+{
+	"leases": [
+		{
+			"id": 0,
+			"title": "Hotel Rotana",
+			"address": "Hotel Rotana",
+			"isOngoing": true,
+			"": {},
+			"rooms": [
+				{
+					"name": "Bedroom",
+					"media": {
+						"urls": [
+							"url1",
+							"url2",
+							"url3"
+						]
+					}
+				},
+				{
+					"name": "Toilet",
+					"media": {
+						"urls": [
+							"url1",
+							"url2",
+							"url3"
+						]
+					}
+				},
+				{
+					"name": "Summer Kitchen",
+					"media": {
+						"urls": [
+							"url1",
+							"url2",
+							"url3"
+						]
+					}
+				},
+				{
+					"name": "Garden",
+					"media": {
+						"urls": [
+							"url1"
+						]
+					}
+				},
+				{
+					"name": "Guest Room",
+					"media": {
+						"urls": [
+							"url1"
+						]
+					}
+				},
+				{
+					"name": "Bathroom",
+					"media": {
+						"urls": [
+							"url1"
+						]
+					}
+				}
+			],
+			"date_from": "1980-01-02",
+			"date_to": "1980-01-02",
+			"location": {
+				"longitude": "23.23123",
+				"laltitude": "84.2123123"
+			},
+			"space": "586",
+			"pricing": {
+				"price": 36000,
+				"duration": "YR",
+				"curency": "AED"
+			},
+			"description": "asds ad ad asd asd jkabd kjagd kjahgd jahkvd kas",
+			"included_services": [
+				{
+					"name": "Gas",
+					"id": "0"
+				},
+				{
+					"name": "Electricty",
+					"id": "1"
+				},
+				{
+					"name": "Internet",
+					"id": "2"
+				}
+			],
+			"amenities": [
+				{
+					"name": "Child daycare",
+					"id": "0"
+				},
+				{
+					"name": "Lobby reception",
+					"id": "1"
+				},
+				{
+					"name": "Covered parking",
+					"id": "2"
+				},
+				{
+					"name": "Bike racks",
+					"id": "3"
+				}
+			],
+			"facilities": [
+				{
+					"name": "Garage",
+					"id": "0"
+				},
+				{
+					"name": "Shower",
+					"id": "1"
+				},
+				{
+					"name": "Swiming Pool",
+					"id": "2"
+				},
+				{
+					"name": "Furnished",
+					"id": "3"
+				},
+				{
+					"name": "Air Condition",
+					"id": "4",
+					"": {}
+				}
+			],
+			"nearby_landmarks": [
+				{
+					"name": "Beach front",
+					"id": "0"
+				},
+				{
+					"name": "Wonder Gardens",
+					"id": "1"
+				}
+			]
+		},
+		{
+			"id": 1,
+			"title": "Hotel Rotana",
+			"address": "Hotel Rotana",
+			"isOngoing": true,
+			"": {},
+			"rooms": [
+				{
+					"name": "Bedroom",
+					"media": {
+						"urls": [
+							"url1",
+							"url2",
+							"url3"
+						]
+					}
+				},
+				{
+					"name": "Toilet",
+					"media": {
+						"urls": [
+							"url1",
+							"url2",
+							"url3"
+						]
+					}
+				},
+				{
+					"name": "Summer Kitchen",
+					"media": {
+						"urls": [
+							"url1",
+							"url2",
+							"url3"
+						]
+					}
+				},
+				{
+					"name": "Garden",
+					"media": {
+						"urls": [
+							"url1"
+						]
+					}
+				},
+				{
+					"name": "Guest Room",
+					"media": {
+						"urls": [
+							"url1"
+						]
+					}
+				},
+				{
+					"name": "Bathroom",
+					"media": {
+						"urls": [
+							"url1"
+						]
+					}
+				}
+			],
+			"date_from": "1980-01-02",
+			"date_to": "1980-01-02",
+			"location": {
+				"longitude": "23.23123",
+				"laltitude": "84.2123123"
+			},
+			"space": "586sqft",
+			"pricing": {
+				"price": 36000,
+				"duration": "YR",
+				"curency": "AED"
+			},
+			"description": "asds ad ad asd asd jkabd kjagd kjahgd jahkvd kas",
+			"included_services": [
+				{
+					"name": "Gas",
+					"id": "0"
+				},
+				{
+					"name": "Electricty",
+					"id": "1"
+				},
+				{
+					"name": "Internet",
+					"id": "2"
+				}
+			],
+			"amenities": [
+				{
+					"name": "Child daycare",
+					"id": "0"
+				},
+				{
+					"name": "Lobby reception",
+					"id": "1"
+				},
+				{
+					"name": "Covered parking",
+					"id": "2"
+				},
+				{
+					"name": "Bike racks",
+					"id": "3"
+				}
+			],
+			"facilities": [
+				{
+					"name": "Garage",
+					"id": "0"
+				},
+				{
+					"name": "Shower",
+					"id": "1"
+				},
+				{
+					"name": "Swiming Pool",
+					"id": "2"
+				},
+				{
+					"name": "Furnished",
+					"id": "3"
+				},
+				{
+					"name": "Air Condition",
+					"id": "4",
+					"": {}
+				}
+			],
+			"nearby_landmarks": [
+				{
+					"name": "Beach front",
+					"id": "0"
+				},
+				{
+					"name": "Wonder Gardens",
+					"id": "1"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"title": "Crown Beach Hotel Maldives",
+			"address": "Crown Beach Hotel Maldives",
+			"isOngoing": false,
+			"": {},
+			"rooms": [
+				{
+					"name": "Bedroom",
+					"media": {
+						"urls": [
+							"url1",
+							"url2",
+							"url3"
+						]
+					}
+				},
+				{
+					"name": "Toilet",
+					"media": {
+						"urls": [
+							"url1",
+							"url2",
+							"url3"
+						]
+					}
+				},
+				{
+					"name": "Summer Kitchen",
+					"media": {
+						"urls": [
+							"url1",
+							"url2",
+							"url3"
+						]
+					}
+				},
+				{
+					"name": "Garden",
+					"media": {
+						"urls": [
+							"url1"
+						]
+					}
+				},
+				{
+					"name": "Guest Room",
+					"media": {
+						"urls": [
+							"url1"
+						]
+					}
+				},
+				{
+					"name": "Bathroom",
+					"media": {
+						"urls": [
+							"url1"
+						]
+					}
+				}
+			],
+			"date_from": "1980-01-02",
+			"date_to": "1980-01-02",
+			"location": {
+				"longitude": "23.23123",
+				"laltitude": "84.2123123"
+			},
+			"space": "586sqft",
+			"pricing": {
+				"price": 36000,
+				"duration": "YR",
+				"curency": "AED"
+			},
+			"description": "asds ad ad asd asd jkabd kjagd kjahgd jahkvd kas",
+			"included_services": [
+				{
+					"name": "Gas",
+					"id": "0"
+				},
+				{
+					"name": "Electricty",
+					"id": "1"
+				},
+				{
+					"name": "Internet",
+					"id": "2"
+				}
+			],
+			"amenities": [
+				{
+					"name": "Child daycare",
+					"id": "0"
+				},
+				{
+					"name": "Lobby reception",
+					"id": "1"
+				},
+				{
+					"name": "Covered parking",
+					"id": "2"
+				},
+				{
+					"name": "Bike racks",
+					"id": "3"
+				}
+			],
+			"facilities": [
+				{
+					"name": "Garage",
+					"id": "0"
+				},
+				{
+					"name": "Shower",
+					"id": "1"
+				},
+				{
+					"name": "Swiming Pool",
+					"id": "2"
+				},
+				{
+					"name": "Furnished",
+					"id": "3"
+				},
+				{
+					"name": "Air Condition",
+					"id": "4",
+					"": {}
+				}
+			],
+			"nearby_landmarks": [
+				{
+					"name": "Beach front",
+					"id": "0"
+				},
+				{
+					"name": "Wonder Gardens",
+					"id": "1"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"title": "Crown Beach Hotel Maldives",
+			"address": "Crown Beach Hotel Maldives",
+			"isOngoing": false,
+			"": {},
+			"rooms": [
+				{
+					"name": "Bedroom",
+					"media": {
+						"urls": [
+							"url1",
+							"url2",
+							"url3"
+						]
+					}
+				},
+				{
+					"name": "Toilet",
+					"media": {
+						"urls": [
+							"url1",
+							"url2",
+							"url3"
+						]
+					}
+				},
+				{
+					"name": "Summer Kitchen",
+					"media": {
+						"urls": [
+							"url1",
+							"url2",
+							"url3"
+						]
+					}
+				},
+				{
+					"name": "Garden",
+					"media": {
+						"urls": [
+							"url1"
+						]
+					}
+				},
+				{
+					"name": "Guest Room",
+					"media": {
+						"urls": [
+							"url1"
+						]
+					}
+				},
+				{
+					"name": "Bathroom",
+					"media": {
+						"urls": [
+							"url1"
+						]
+					}
+				}
+			],
+			"date_from": "1980-01-02",
+			"date_to": "1980-01-02",
+			"location": {
+				"longitude": "23.23123",
+				"laltitude": "84.2123123"
+			},
+			"space": "586sqft",
+			"pricing": {
+				"price": 36000,
+				"duration": "YR",
+				"curency": "AED"
+			},
+			"description": "asds ad ad asd asd jkabd kjagd kjahgd jahkvd kas",
+			"included_services": [
+				{
+					"name": "Gas",
+					"id": "0"
+				},
+				{
+					"name": "Electricty",
+					"id": "1"
+				},
+				{
+					"name": "Internet",
+					"id": "2"
+				}
+			],
+			"amenities": [
+				{
+					"name": "Child daycare",
+					"id": "0"
+				},
+				{
+					"name": "Lobby reception",
+					"id": "1"
+				},
+				{
+					"name": "Covered parking",
+					"id": "2"
+				},
+				{
+					"name": "Bike racks",
+					"id": "3"
+				}
+			],
+			"facilities": [
+				{
+					"name": "Garage",
+					"id": "0"
+				},
+				{
+					"name": "Shower",
+					"id": "1"
+				},
+				{
+					"name": "Swiming Pool",
+					"id": "2"
+				},
+				{
+					"name": "Furnished",
+					"id": "3"
+				},
+				{
+					"name": "Air Condition",
+					"id": "4",
+					"": {}
+				}
+			],
+			"nearby_landmarks": [
+				{
+					"name": "Beach front",
+					"id": "0"
+				},
+				{
+					"name": "Wonder Gardens",
+					"id": "1"
+				}
+			]
+		},
+		{
+			"id": 4,
+			"title": "Crown Beach Hotel Maldives",
+			"address": "Crown Beach Hotel Maldives",
+			"isOngoing": true,
+			"": {},
+			"rooms": [
+				{
+					"name": "Bedroom",
+					"media": {
+						"urls": [
+							"url1",
+							"url2",
+							"url3"
+						]
+					}
+				},
+				{
+					"name": "Toilet",
+					"media": {
+						"urls": [
+							"url1",
+							"url2",
+							"url3"
+						]
+					}
+				},
+				{
+					"name": "Summer Kitchen",
+					"media": {
+						"urls": [
+							"url1",
+							"url2",
+							"url3"
+						]
+					}
+				},
+				{
+					"name": "Garden",
+					"media": {
+						"urls": [
+							"url1"
+						]
+					}
+				},
+				{
+					"name": "Guest Room",
+					"media": {
+						"urls": [
+							"url1"
+						]
+					}
+				},
+				{
+					"name": "Bathroom",
+					"media": {
+						"urls": [
+							"url1"
+						]
+					}
+				}
+			],
+			"date_from": "1980-01-02",
+			"date_to": "1980-01-02",
+			"location": {
+				"longitude": "23.23123",
+				"laltitude": "84.2123123"
+			},
+			"space": "586sqft",
+			"pricing": {
+				"price": 36000,
+				"duration": "YR",
+				"curency": "AED"
+			},
+			"description": "asds ad ad asd asd jkabd kjagd kjahgd jahkvd kas",
+			"included_services": [
+				{
+					"name": "Gas",
+					"id": "0"
+				},
+				{
+					"name": "Electricty",
+					"id": "1"
+				},
+				{
+					"name": "Internet",
+					"id": "2"
+				}
+			],
+			"amenities": [
+				{
+					"name": "Child daycare",
+					"id": "0"
+				},
+				{
+					"name": "Lobby reception",
+					"id": "1"
+				},
+				{
+					"name": "Covered parking",
+					"id": "2"
+				},
+				{
+					"name": "Bike racks",
+					"id": "3"
+				}
+			],
+			"facilities": [
+				{
+					"name": "Garage",
+					"id": "0"
+				},
+				{
+					"name": "Shower",
+					"id": "1"
+				},
+				{
+					"name": "Swiming Pool",
+					"id": "2"
+				},
+				{
+					"name": "Furnished",
+					"id": "3"
+				},
+				{
+					"name": "Air Condition",
+					"id": "4",
+					"": {}
+				}
+			],
+			"nearby_landmarks": [
+				{
+					"name": "Beach front",
+					"id": "0"
+				},
+				{
+					"name": "Wonder Gardens",
+					"id": "1"
+				}
+			]
+		},
+		{
+			"id": 5,
+			"title": "Crown Beach Hotel Maldives",
+			"address": "Crown Beach Hotel Maldives",
+			"isOngoing": true,
+			"": {},
+			"rooms": [
+				{
+					"name": "Bedroom",
+					"media": {
+						"urls": [
+							"url1",
+							"url2",
+							"url3"
+						]
+					}
+				},
+				{
+					"name": "Toilet",
+					"media": {
+						"urls": [
+							"url1",
+							"url2",
+							"url3"
+						]
+					}
+				},
+				{
+					"name": "Summer Kitchen",
+					"media": {
+						"urls": [
+							"url1",
+							"url2",
+							"url3"
+						]
+					}
+				},
+				{
+					"name": "Garden",
+					"media": {
+						"urls": [
+							"url1"
+						]
+					}
+				},
+				{
+					"name": "Guest Room",
+					"media": {
+						"urls": [
+							"url1"
+						]
+					}
+				},
+				{
+					"name": "Bathroom",
+					"media": {
+						"urls": [
+							"url1"
+						]
+					}
+				}
+			],
+			"date_from": "1980-01-02",
+			"date_to": "1980-01-02",
+			"location": {
+				"longitude": "23.23123",
+				"laltitude": "84.2123123"
+			},
+			"space": "586sqft",
+			"pricing": {
+				"price": 36000,
+				"duration": "YR",
+				"curency": "AED"
+			},
+			"description": "asds ad ad asd asd jkabd kjagd kjahgd jahkvd kas",
+			"included_services": [
+				{
+					"name": "Gas",
+					"id": "0"
+				},
+				{
+					"name": "Electricty",
+					"id": "1"
+				},
+				{
+					"name": "Internet",
+					"id": "2"
+				}
+			],
+			"amenities": [
+				{
+					"name": "Child daycare",
+					"id": "0"
+				},
+				{
+					"name": "Lobby reception",
+					"id": "1"
+				},
+				{
+					"name": "Covered parking",
+					"id": "2"
+				},
+				{
+					"name": "Bike racks",
+					"id": "3"
+				}
+			],
+			"facilities": [
+				{
+					"name": "Garage",
+					"id": "0"
+				},
+				{
+					"name": "Shower",
+					"id": "1"
+				},
+				{
+					"name": "Swiming Pool",
+					"id": "2"
+				},
+				{
+					"name": "Furnished",
+					"id": "3"
+				},
+				{
+					"name": "Air Condition",
+					"id": "4",
+					"": {}
+				}
+			],
+			"nearby_landmarks": [
+				{
+					"name": "Beach front",
+					"id": "0"
+				},
+				{
+					"name": "Wonder Gardens",
+					"id": "1"
+				}
+			]
+		},
+		{
+			"id":6,
+			"title": "Crown Beach Hotel Maldives",
+			"address": "Crown Beach Hotel Maldives",
+			"isOngoing": true,
+			"": {},
+			"rooms": [
+				{
+					"name": "Bedroom",
+					"media": {
+						"urls": [
+							"url1",
+							"url2",
+							"url3"
+						]
+					}
+				},
+				{
+					"name": "Toilet",
+					"media": {
+						"urls": [
+							"url1",
+							"url2",
+							"url3"
+						]
+					}
+				},
+				{
+					"name": "Summer Kitchen",
+					"media": {
+						"urls": [
+							"url1",
+							"url2",
+							"url3"
+						]
+					}
+				},
+				{
+					"name": "Garden",
+					"media": {
+						"urls": [
+							"url1"
+						]
+					}
+				},
+				{
+					"name": "Guest Room",
+					"media": {
+						"urls": [
+							"url1"
+						]
+					}
+				},
+				{
+					"name": "Bathroom",
+					"media": {
+						"urls": [
+							"url1"
+						]
+					}
+				}
+			],
+			"date_from": "1980-01-02",
+			"date_to": "1980-01-02",
+			"location": {
+				"longitude": "23.23123",
+				"laltitude": "84.2123123"
+			},
+			"space": "586sqft",
+			"pricing": {
+				"price": 36000,
+				"duration": "YR",
+				"curency": "AED"
+			},
+			"description": "asds ad ad asd asd jkabd kjagd kjahgd jahkvd kas",
+			"included_services": [
+				{
+					"name": "Gas",
+					"id": "0"
+				},
+				{
+					"name": "Electricty",
+					"id": "1"
+				},
+				{
+					"name": "Internet",
+					"id": "2"
+				}
+			],
+			"amenities": [
+				{
+					"name": "Child daycare",
+					"id": "0"
+				},
+				{
+					"name": "Lobby reception",
+					"id": "1"
+				},
+				{
+					"name": "Covered parking",
+					"id": "2"
+				},
+				{
+					"name": "Bike racks",
+					"id": "3"
+				}
+			],
+			"facilities": [
+				{
+					"name": "Garage",
+					"id": "0"
+				},
+				{
+					"name": "Shower",
+					"id": "1"
+				},
+				{
+					"name": "Swiming Pool",
+					"id": "2"
+				},
+				{
+					"name": "Furnished",
+					"id": "3"
+				},
+				{
+					"name": "Air Condition",
+					"id": "4",
+					"": {}
+				}
+			],
+			"nearby_landmarks": [
+				{
+					"name": "Beach front",
+					"id": "0"
+				},
+				{
+					"name": "Wonder Gardens",
+					"id": "1"
+				}
+			]
+		}
+	]
+}
