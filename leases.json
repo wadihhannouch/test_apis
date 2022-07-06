@@ -145,9 +145,9 @@
 		{
 			"id": 1,
 			"title": "Hotel Rotana Dubai",
-			"address": "Hotel Rotana Dubai",
+			"address": "Hotel Rotana Dubai 123",
 			"image": "https://picsum.photos/300/150",
-			"isOngoing": true,
+			"isOngoing": false,
 			"": {},
 			"rooms": [
 				{
