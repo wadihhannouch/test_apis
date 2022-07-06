@@ -5,7 +5,7 @@
 			"title": "Hotel Rotana 132",
 			"address": "Hotel Rotana 123",
 			"image": "https://picsum.photos/300/150",
-			"isOngoing": true,
+			"isOngoing": false,
 			"": {},
 			"rooms": [
 				{
