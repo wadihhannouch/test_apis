@@ -6,6 +6,7 @@
 			"address": "Hotel Rotana 456789 asd sd sd asdas das ",
 			"image": "https://picsum.photos/300/150",
 			"isOngoing": true,
+			"highlighted": true,
 			"": {},
 			"rooms": [
 				{
@@ -148,6 +149,7 @@
 			"address": "Hotel Rotana Dubai 123",
 			"image": "https://picsum.photos/300/150",
 			"isOngoing": false,
+			"highlighted": true,
 			"": {},
 			"rooms": [
 				{
@@ -290,6 +292,7 @@
 			"address": "Crown Beach Hotel Maldives",
 			"image": "https://picsum.photos/300/150",
 			"isOngoing": false,
+			"highlighted": true,
 			"": {},
 			"rooms": [
 				{
@@ -432,6 +435,7 @@
 			"address": "Crown Beach Hotel Maldives",
 			"image": "https://picsum.photos/300/150",
 			"isOngoing": false,
+			"highlighted": true,
 			"": {},
 			"rooms": [
 				{
@@ -574,6 +578,7 @@
 			"address": "Crown Beach Hotel Maldives",
 			"image": "https://picsum.photos/300/150",
 			"isOngoing": true,
+			"highlighted": true,
 			"": {},
 			"rooms": [
 				{
@@ -716,6 +721,7 @@
 			"address": "Crown Beach Hotel Maldives",
 			"image": "https://picsum.photos/300/150",
 			"isOngoing": true,
+			"highlighted": false,
 			"": {},
 			"rooms": [
 				{
@@ -858,6 +864,7 @@
 			"address": "Crown Beach Hotel Maldives",
 			"image": "https://picsum.photos/300/150",
 			"isOngoing": true,
+			"highlighted": false,
 			"": {},
 			"rooms": [
 				{
