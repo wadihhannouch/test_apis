@@ -133,11 +133,11 @@
       "nearby_landmarks": [
         {
           "name": "Beach front",
-          "id": "0"
+          "id": 0
         },
         {
           "name": "Wonder Gardens",
-          "id": "1"
+          "id": 1
         }
       ]
     },
@@ -148,7 +148,7 @@
       "image": "https://picsum.photos/300/150",
       "isOngoing": false,
       "highlighted": true,
-      "": {},
+      
       "rooms": [
         {
           "name": "Bedroom",
@@ -221,66 +221,66 @@
       "included_services": [
         {
           "name": "Gas",
-          "id": "0"
+          "id": 0
         },
         {
           "name": "Electricty",
-          "id": "1"
+          "id": 1
         },
         {
           "name": "Internet",
-          "id": "2"
+          "id": 2
         }
       ],
       "amenities": [
         {
           "name": "Child daycare",
-          "id": "0"
+          "id": 0
         },
         {
           "name": "Lobby reception",
-          "id": "1"
+          "id": 1
         },
         {
           "name": "Covered parking",
-          "id": "2"
+          "id": 2
         },
         {
           "name": "Bike racks",
-          "id": "3"
+          "id": 3
         }
       ],
       "facilities": [
         {
           "name": "Garage",
-          "id": "0"
+          "id": 0
         },
         {
           "name": "Shower",
-          "id": "1"
+          "id": 1
         },
         {
           "name": "Swiming Pool",
-          "id": "2"
+          "id": 2
         },
         {
           "name": "Furnished",
-          "id": "3"
+          "id": 3
         },
         {
           "name": "Air Condition",
-          "id": "4",
-          "": {}
+          "id": 4
+          
         }
       ],
       "nearby_landmarks": [
         {
           "name": "Beach front",
-          "id": "0"
+          "id": 0
         },
         {
           "name": "Wonder Gardens",
-          "id": "1"
+          "id": 1
         }
       ]
     },
@@ -291,7 +291,7 @@
       "image": "https://picsum.photos/300/150",
       "isOngoing": false,
       "highlighted": true,
-      "": {},
+
       "rooms": [
         {
           "name": "Bedroom",
@@ -364,66 +364,66 @@
       "included_services": [
         {
           "name": "Gas",
-          "id": "0"
+          "id": 0
         },
         {
           "name": "Electricty",
-          "id": "1"
+          "id": 1
         },
         {
           "name": "Internet",
-          "id": "2"
+          "id": 2
         }
       ],
       "amenities": [
         {
           "name": "Child daycare",
-          "id": "0"
+          "id": 0
         },
         {
           "name": "Lobby reception",
-          "id": "1"
+          "id": 1
         },
         {
           "name": "Covered parking",
-          "id": "2"
+          "id": 2
         },
         {
           "name": "Bike racks",
-          "id": "3"
+          "id": 3
         }
       ],
       "facilities": [
         {
           "name": "Garage",
-          "id": "0"
+          "id": 0
         },
         {
           "name": "Shower",
-          "id": "1"
+          "id": 1
         },
         {
           "name": "Swiming Pool",
-          "id": "2"
+          "id": 2
         },
         {
           "name": "Furnished",
-          "id": "3"
+          "id": 3
         },
         {
           "name": "Air Condition",
-          "id": "4",
-          "": {}
+          "id": 4
+          
         }
       ],
       "nearby_landmarks": [
         {
           "name": "Beach front",
-          "id": "0"
+          "id": 0
         },
         {
           "name": "Wonder Gardens",
-          "id": "1"
+          "id": 1
         }
       ]
     },
@@ -434,7 +434,7 @@
       "image": "https://picsum.photos/300/150",
       "isOngoing": false,
       "highlighted": true,
-      "": {},
+
       "rooms": [
         {
           "name": "Bedroom",
@@ -507,66 +507,66 @@
       "included_services": [
         {
           "name": "Gas",
-          "id": "0"
+          "id": 0
         },
         {
           "name": "Electricty",
-          "id": "1"
+          "id": 1
         },
         {
           "name": "Internet",
-          "id": "2"
+          "id": 2
         }
       ],
       "amenities": [
         {
           "name": "Child daycare",
-          "id": "0"
+          "id": 0
         },
         {
           "name": "Lobby reception",
-          "id": "1"
+          "id": 1
         },
         {
           "name": "Covered parking",
-          "id": "2"
+          "id": 2
         },
         {
           "name": "Bike racks",
-          "id": "3"
+          "id": 3
         }
       ],
       "facilities": [
         {
           "name": "Garage",
-          "id": "0"
+          "id": 0
         },
         {
           "name": "Shower",
-          "id": "1"
+          "id": 1
         },
         {
           "name": "Swiming Pool",
-          "id": "2"
+          "id": 2
         },
         {
           "name": "Furnished",
-          "id": "3"
+          "id": 3
         },
         {
           "name": "Air Condition",
-          "id": "4",
-          "": {}
+          "id": 4,
+          
         }
       ],
       "nearby_landmarks": [
         {
           "name": "Beach front",
-          "id": "0"
+          "id": 0
         },
         {
           "name": "Wonder Gardens",
-          "id": "1"
+          "id": 1
         }
       ]
     },
@@ -577,7 +577,7 @@
       "image": "https://picsum.photos/300/150",
       "isOngoing": true,
       "highlighted": true,
-      "": {},
+
       "rooms": [
         {
           "name": "Bedroom",
@@ -650,66 +650,66 @@
       "included_services": [
         {
           "name": "Gas",
-          "id": "0"
+          "id": 0
         },
         {
           "name": "Electricty",
-          "id": "1"
+          "id": 1
         },
         {
           "name": "Internet",
-          "id": "2"
+          "id": 2
         }
       ],
       "amenities": [
         {
           "name": "Child daycare",
-          "id": "0"
+          "id": 0
         },
         {
           "name": "Lobby reception",
-          "id": "1"
+          "id": 1
         },
         {
           "name": "Covered parking",
-          "id": "2"
+          "id": 2
         },
         {
           "name": "Bike racks",
-          "id": "3"
+          "id": 3
         }
       ],
       "facilities": [
         {
           "name": "Garage",
-          "id": "0"
+          "id": 0
         },
         {
           "name": "Shower",
-          "id": "1"
+          "id": 1
         },
         {
           "name": "Swiming Pool",
-          "id": "2"
+          "id": 2
         },
         {
           "name": "Furnished",
-          "id": "3"
+          "id": 3
         },
         {
           "name": "Air Condition",
-          "id": "4",
-          "": {}
+          "id": 4,
+          
         }
       ],
       "nearby_landmarks": [
         {
           "name": "Beach front",
-          "id": "0"
+          "id": 0
         },
         {
           "name": "Wonder Gardens",
-          "id": "1"
+          "id": 1
         }
       ]
     }
