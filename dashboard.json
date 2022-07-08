@@ -79,56 +79,55 @@
       "included_services": [
         {
           "name": "Gas",
-          "id": "0"
+          "id": 0
         },
         {
           "name": "Electricty",
-          "id": "1"
+          "id": 1
         },
         {
           "name": "Internet",
-          "id": "2"
+          "id": 2
         }
       ],
       "amenities": [
         {
           "name": "Child daycare",
-          "id": "0"
+          "id": 0
         },
         {
           "name": "Lobby reception",
-          "id": "1"
+          "id": 1
         },
         {
           "name": "Covered parking",
-          "id": "2"
+          "id": 2
         },
         {
           "name": "Bike racks",
-          "id": "3"
+          "id": 3
         }
       ],
       "facilities": [
         {
           "name": "Garage",
-          "id": "0"
+          "id": 0
         },
         {
           "name": "Shower",
-          "id": "1"
+          "id": 1
         },
         {
           "name": "Swiming Pool",
-          "id": "2"
+          "id": 2
         },
         {
           "name": "Furnished",
-          "id": "3"
+          "id": 3
         },
         {
           "name": "Air Condition",
-          "id": "4",
-          "": {}
+          "id": 4
         }
       ],
       "nearby_landmarks": [
@@ -719,22 +718,22 @@
     {
       "date": "2020-06-24",
       "type": {
-        "id": "0",
+        "id": 0,
         "title": "Gas"
       },
       "status": {
-        "id": "0",
+        "id": 0,
         "title": "Finished"
       }
     },
     {
       "date": "2020-06-24",
       "type": {
-        "id": "1",
+        "id": 1,
         "title": "Handy Work"
       },
       "status": {
-        "id": "0",
+        "id": 0,
         "title": "Finished"
       }
     }
@@ -744,7 +743,7 @@
       "lease": "Crown Beach House Maldives",
       "date": "2020-06-24",
       "status": {
-        "id": "1",
+        "id": 1,
         "title": "In Progress"
       }
     },
@@ -752,7 +751,7 @@
       "lease": "House Maldives",
       "date": "2020-06-24",
       "status": {
-        "id": "2",
+        "id": 2,
         "title": "Denied"
       }
     }
@@ -760,7 +759,7 @@
   "reports": {
     "date": "2020-06-24",
     "status": {
-      "id": "0",
+      "id": 0,
       "title": "Report Updated"
     }
   }
