@@ -3,13 +3,13 @@
     {
       "name": "file1.pdf",
       "size": 1.56,
-      "url": "https://www.orimi.com/pdf-test.pdf",
+      "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
       "image": "https://picsum.photos/100?1"
     },
     {
       "name": "newfile2.pdf",
       "size": 1.56,
-      "url": "https://www.clickdimensions.com/links/TestPDFfile.pdf",
+      "url": "https://ncu.rcnpv.com.tw/Uploads/20131231103232738561744.pdf",
       "image": "https://picsum.photos/100?2"
     },
     {
@@ -21,7 +21,7 @@
     {
       "name": "name.img",
       "size": 1.56,
-      "url": "https://www.clickdimensions.com/links/TestPDFfile.pdf",
+      "url": "https://ncu.rcnpv.com.tw/Uploads/20131231103232738561744.pdf",
       "image": "https://picsum.photos/100?4"
     },
     {
@@ -33,7 +33,7 @@
     {
       "name": "name",
       "size": 1.56,
-      "url": "https://www.clickdimensions.com/links/TestPDFfile.pdf",
+      "url": "https://ncu.rcnpv.com.tw/Uploads/20131231103232738561744.pdf",
       "image": "https://picsum.photos/100?6"
     },
     {
@@ -45,7 +45,7 @@
     {
       "name": "name",
       "size": 1.56,
-      "url": "https://www.clickdimensions.com/links/TestPDFfile.pdf",
+      "url": "https://ncu.rcnpv.com.tw/Uploads/20131231103232738561744.pdf",
       "image": "https://picsum.photos/100?8"
     },
     {
@@ -57,7 +57,7 @@
     {
       "name": "name",
       "size": 1.56,
-      "url": "https://www.clickdimensions.com/links/TestPDFfile.pdf",
+      "url": "https://ncu.rcnpv.com.tw/Uploads/20131231103232738561744.pdf",
       "image": "https://picsum.photos/100?10"
     }
   ]
