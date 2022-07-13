@@ -1,0 +1,32 @@
+{
+  "faq": [
+    {
+      "title": "Hello this is a title",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text"
+    },
+    {
+      "title": "Title number 2",
+      "description": "Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text."
+    },
+    {
+      "title": "Hello this is a title",
+      "description": "Cicero, written in 45 BC. This book is a treatise"
+    },
+    {
+      "title": "Title number 4",
+      "description": "Cicero, written in 45 BC. This book is a treatise"
+    },
+    {
+      "title": "Title number 4",
+      "description": "Cicero, written in 45 BC. This book is a treatise"
+    },
+    {
+      "title": "Title number 4",
+      "description": "Cicero, written in 45 BC. This book is a treatise"
+    },
+    {
+      "title": "Title number 4",
+      "description": "Cicero, written in 45 BC. This book is a treatise"
+    }
+  ]
+}

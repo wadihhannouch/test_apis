@@ -1,0 +1,58 @@
+{
+  "notification": [
+    {
+      "date": "2020-06-24",
+      "title": "Hello this is a title",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text",
+      "notification_type": 0
+    },
+    {
+      "date": "2020-06-24",
+      "title": "",
+      "description": "Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+      "notification_type": 1
+    },
+    {
+      "date": "2020-06-24",
+      "title": "Hello this is a title",
+      "description": "Cicero, written in 45 BC. This book is a treatise",
+      "notification_type": 2
+    },
+    {
+      "date": "2020-06-24",
+      "title": "",
+      "description": "Cicero, written in 45 BC. This book is a treatise",
+      "notification_type": 2
+    },
+    {
+      "date": "2020-06-24",
+      "title": "Hello this is a title",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text",
+      "notification_type": 1
+    },
+    {
+      "date": "2020-06-24",
+      "title": "",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text",
+      "notification_type": 0
+    },
+    {
+      "date": "2020-06-24",
+      "title": "",
+      "description": "Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+      "notification_type": 0
+    },
+    {
+      "date": "2020-06-24",
+      "title": "",
+      "description": "Cicero, written in 45 BC. This book is a treatise",
+      "notification_type": 1
+    },
+    {
+      "date": "2020-06-24",
+      "title": "",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text",
+      "notification_type": 2
+    }
+  ]
+}
