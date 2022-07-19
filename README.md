@@ -22,5 +22,9 @@
 ```markdown
   https://wadihhannouch.github.io/proptech_api/faq.json
 ```
+### FAQ Api
+```markdown
+  https://wadihhannouch.github.io/proptech_api/creditcards.json
+```
 
 **Bold** and _Italic_ and `Code` text

@@ -1,0 +1,23 @@
+ [
+    {
+      "number": "1234 5678 1234 5678",
+      "ccv": "123",
+      "expiryDate": "11/22",
+      "holder": "Jhon Smith",
+      "card_type": "mastercard"
+    },
+   {
+     "number": " 5678 1234 5678 9321",
+     "ccv": "123",
+     "expiryDate": "11/22",
+     "holder": "Jhon Smith",
+     "card_type": "visa"
+   },
+   {
+     "number": "4321 5678 4321 9876",
+     "ccv": "123",
+     "expiryDate": "11/22",
+     "holder": "Jhon Smith",
+     "card_type": "american_express"
+   }
+ ]
