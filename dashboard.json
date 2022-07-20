@@ -29,7 +29,7 @@
           }
         },
         {
-          "name": "Summer Kitchen",
+          "name": "Kitchen",
           "media": {
             "urls": [
               "https://picsum.photos/200",
@@ -40,14 +40,6 @@
         },
         {
           "name": "Garden",
-          "media": {
-            "urls": [
-              "https://picsum.photos/200"
-            ]
-          }
-        },
-        {
-          "name": "Guest Room",
           "media": {
             "urls": [
               "https://picsum.photos/200"
@@ -145,149 +137,6 @@
       "id": 1,
       "title": "Hotel Rotana Dubai",
       "address": "Hotel Rotana Dubai 123",
-      "image": "https://picsum.photos/300/150",
-      "isOngoing": false,
-      "highlighted": true,
-      
-      "rooms": [
-        {
-          "name": "Bedroom",
-          "media": {
-            "urls": [
-              "https://picsum.photos/200",
-              "https://picsum.photos/200",
-              "https://picsum.photos/200"
-            ]
-          }
-        },
-        {
-          "name": "Toilet",
-          "media": {
-            "urls": [
-              "https://picsum.photos/200",
-              "https://picsum.photos/200",
-              "https://picsum.photos/200"
-            ]
-          }
-        },
-        {
-          "name": "Summer Kitchen",
-          "media": {
-            "urls": [
-              "https://picsum.photos/200",
-              "https://picsum.photos/200",
-              "https://picsum.photos/200"
-            ]
-          }
-        },
-        {
-          "name": "Garden",
-          "media": {
-            "urls": [
-              "https://picsum.photos/200"
-            ]
-          }
-        },
-        {
-          "name": "Guest Room",
-          "media": {
-            "urls": [
-              "https://picsum.photos/200"
-            ]
-          }
-        },
-        {
-          "name": "Bathroom",
-          "media": {
-            "urls": [
-              "https://picsum.photos/200"
-            ]
-          }
-        }
-      ],
-      "date_from": "1980-01-02",
-      "date_to": "1980-01-02",
-      "location": {
-        "longitude": "23.23123",
-        "laltitude": "84.2123123"
-      },
-      "space": "586sqft",
-      "pricing": {
-        "price": 36000,
-        "duration": "YR",
-        "curency": "AED"
-      },
-      "description": "asds ad ad asd asd jkabd kjagd kjahgd jahkvd kas",
-      "included_services": [
-        {
-          "name": "Gas",
-          "id": 0
-        },
-        {
-          "name": "Electricty",
-          "id": 1
-        },
-        {
-          "name": "Internet",
-          "id": 2
-        }
-      ],
-      "amenities": [
-        {
-          "name": "Child daycare",
-          "id": 0
-        },
-        {
-          "name": "Lobby reception",
-          "id": 1
-        },
-        {
-          "name": "Covered parking",
-          "id": 2
-        },
-        {
-          "name": "Bike racks",
-          "id": 3
-        }
-      ],
-      "facilities": [
-        {
-          "name": "Garage",
-          "id": 0
-        },
-        {
-          "name": "Shower",
-          "id": 1
-        },
-        {
-          "name": "Swiming Pool",
-          "id": 2
-        },
-        {
-          "name": "Furnished",
-          "id": 3
-        },
-        {
-          "name": "Air Condition",
-          "id": 4
-          
-        }
-      ],
-      "nearby_landmarks": [
-        {
-          "name": "Beach front",
-          "id": 0
-        },
-        {
-          "name": "Wonder Gardens",
-          "id": 1
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "title": "Crown Beach Hotel Maldives",
-      "address": "Crown Beach Hotel Maldives",
       "image": "https://picsum.photos/300/150",
       "isOngoing": false,
       "highlighted": true,
@@ -413,7 +262,150 @@
         {
           "name": "Air Condition",
           "id": 4
-          
+
+        }
+      ],
+      "nearby_landmarks": [
+        {
+          "name": "Beach front",
+          "id": 0
+        },
+        {
+          "name": "Wonder Gardens",
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Crown Beach Hotel Maldives",
+      "address": "Crown Beach Hotel Maldives",
+      "image": "https://picsum.photos/300/150",
+      "isOngoing": false,
+      "highlighted": true,
+
+      "rooms": [
+        {
+          "name": "Bedroom",
+          "media": {
+            "urls": [
+              "https://picsum.photos/200",
+              "https://picsum.photos/200",
+              "https://picsum.photos/200"
+            ]
+          }
+        },
+        {
+          "name": "Toilet",
+          "media": {
+            "urls": [
+              "https://picsum.photos/150",
+              "https://picsum.photos/200",
+              "https://picsum.photos/200"
+            ]
+          }
+        },
+        {
+          "name": "Summer Kitchen",
+          "media": {
+            "urls": [
+              "https://picsum.photos/200",
+              "https://picsum.photos/200",
+              "https://picsum.photos/200"
+            ]
+          }
+        },
+        {
+          "name": "Garden",
+          "media": {
+            "urls": [
+              "https://picsum.photos/200"
+            ]
+          }
+        },
+        {
+          "name": "Guest Room",
+          "media": {
+            "urls": [
+              "https://picsum.photos/200"
+            ]
+          }
+        },
+        {
+          "name": "Bathroom",
+          "media": {
+            "urls": [
+              "https://picsum.photos/200"
+            ]
+          }
+        }
+      ],
+      "date_from": "1980-01-02",
+      "date_to": "1980-01-02",
+      "location": {
+        "longitude": "23.23123",
+        "laltitude": "84.2123123"
+      },
+      "space": "586sqft",
+      "pricing": {
+        "price": 36000,
+        "duration": "YR",
+        "curency": "AED"
+      },
+      "description": "asds ad ad asd asd jkabd kjagd kjahgd jahkvd kas",
+      "included_services": [
+        {
+          "name": "Gas",
+          "id": 0
+        },
+        {
+          "name": "Electricty",
+          "id": 1
+        },
+        {
+          "name": "Internet",
+          "id": 2
+        }
+      ],
+      "amenities": [
+        {
+          "name": "Child daycare",
+          "id": 0
+        },
+        {
+          "name": "Lobby reception",
+          "id": 1
+        },
+        {
+          "name": "Covered parking",
+          "id": 2
+        },
+        {
+          "name": "Bike racks",
+          "id": 3
+        }
+      ],
+      "facilities": [
+        {
+          "name": "Garage",
+          "id": 0
+        },
+        {
+          "name": "Shower",
+          "id": 1
+        },
+        {
+          "name": "Swiming Pool",
+          "id": 2
+        },
+        {
+          "name": "Furnished",
+          "id": 3
+        },
+        {
+          "name": "Air Condition",
+          "id": 4
+
         }
       ],
       "nearby_landmarks": [
@@ -556,7 +548,7 @@
         {
           "name": "Air Condition",
           "id": 4
-          
+
         }
       ],
       "nearby_landmarks": [

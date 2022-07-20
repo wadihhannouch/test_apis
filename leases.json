@@ -12,9 +12,9 @@
 					"name": "Bedroom",
 					"media": {
 						"urls": [
-							"url1",
-							"url2",
-							"url3"
+							"https://picsum.photos/150",
+							"https://picsum.photos/200",
+							"https://picsum.photos/200/200"
 						]
 					}
 				},
@@ -22,9 +22,9 @@
 					"name": "Toilet",
 					"media": {
 						"urls": [
-							"url1",
-							"url2",
-							"url3"
+							"https://picsum.photos/150",
+							"https://picsum.photos/200",
+							"https://picsum.photos/200/200"
 						]
 					}
 				},
@@ -32,9 +32,9 @@
 					"name": "Summer Kitchen",
 					"media": {
 						"urls": [
-							"url1",
-							"url2",
-							"url3"
+							"https://picsum.photos/150",
+							"https://picsum.photos/200",
+							"https://picsum.photos/200/200"
 						]
 					}
 				},
@@ -42,7 +42,7 @@
 					"name": "Garden",
 					"media": {
 						"urls": [
-							"url1"
+							"https://picsum.photos/150"
 						]
 					}
 				},
@@ -50,7 +50,7 @@
 					"name": "Guest Room",
 					"media": {
 						"urls": [
-							"url1"
+							"https://picsum.photos/150"
 						]
 					}
 				},
@@ -58,7 +58,7 @@
 					"name": "Bathroom",
 					"media": {
 						"urls": [
-							"url1"
+							"https://picsum.photos/150"
 						]
 					}
 				}
@@ -154,9 +154,9 @@
 					"name": "Bedroom",
 					"media": {
 						"urls": [
-							"url1",
-							"url2",
-							"url3"
+							"https://picsum.photos/150",
+							"https://picsum.photos/200",
+							"https://picsum.photos/200/200"
 						]
 					}
 				},
@@ -164,9 +164,9 @@
 					"name": "Toilet",
 					"media": {
 						"urls": [
-							"url1",
-							"url2",
-							"url3"
+							"https://picsum.photos/150",
+							"https://picsum.photos/200",
+							"https://picsum.photos/200/200"
 						]
 					}
 				},
@@ -174,9 +174,9 @@
 					"name": "Summer Kitchen",
 					"media": {
 						"urls": [
-							"url1",
-							"url2",
-							"url3"
+							"https://picsum.photos/150",
+							"https://picsum.photos/200",
+							"https://picsum.photos/200/200"
 						]
 					}
 				},
@@ -184,7 +184,7 @@
 					"name": "Garden",
 					"media": {
 						"urls": [
-							"url1"
+							"https://picsum.photos/150"
 						]
 					}
 				},
@@ -192,7 +192,7 @@
 					"name": "Guest Room",
 					"media": {
 						"urls": [
-							"url1"
+							"https://picsum.photos/150"
 						]
 					}
 				},
@@ -200,7 +200,7 @@
 					"name": "Bathroom",
 					"media": {
 						"urls": [
-							"url1"
+							"https://picsum.photos/150"
 						]
 					}
 				}
@@ -296,9 +296,9 @@
 					"name": "Bedroom",
 					"media": {
 						"urls": [
-							"url1",
-							"url2",
-							"url3"
+							"https://picsum.photos/150",
+							"https://picsum.photos/200",
+							"https://picsum.photos/200/200"
 						]
 					}
 				},
@@ -306,9 +306,9 @@
 					"name": "Toilet",
 					"media": {
 						"urls": [
-							"url1",
-							"url2",
-							"url3"
+							"https://picsum.photos/150",
+							"https://picsum.photos/200",
+							"https://picsum.photos/200/200"
 						]
 					}
 				},
@@ -316,9 +316,9 @@
 					"name": "Summer Kitchen",
 					"media": {
 						"urls": [
-							"url1",
-							"url2",
-							"url3"
+							"https://picsum.photos/150",
+							"https://picsum.photos/200",
+							"https://picsum.photos/200/200"
 						]
 					}
 				},
@@ -326,7 +326,7 @@
 					"name": "Garden",
 					"media": {
 						"urls": [
-							"url1"
+							"https://picsum.photos/150"
 						]
 					}
 				},
@@ -334,7 +334,7 @@
 					"name": "Guest Room",
 					"media": {
 						"urls": [
-							"url1"
+							"https://picsum.photos/150"
 						]
 					}
 				},
@@ -342,7 +342,7 @@
 					"name": "Bathroom",
 					"media": {
 						"urls": [
-							"url1"
+							"https://picsum.photos/150"
 						]
 					}
 				}
@@ -439,9 +439,9 @@
 					"name": "Bedroom",
 					"media": {
 						"urls": [
-							"url1",
-							"url2",
-							"url3"
+							"https://picsum.photos/150",
+							"https://picsum.photos/200",
+							"https://picsum.photos/200/200"
 						]
 					}
 				},
@@ -449,9 +449,9 @@
 					"name": "Toilet",
 					"media": {
 						"urls": [
-							"url1",
-							"url2",
-							"url3"
+							"https://picsum.photos/150",
+							"https://picsum.photos/200",
+							"https://picsum.photos/200/200"
 						]
 					}
 				},
@@ -459,9 +459,9 @@
 					"name": "Summer Kitchen",
 					"media": {
 						"urls": [
-							"url1",
-							"url2",
-							"url3"
+							"https://picsum.photos/150",
+							"https://picsum.photos/200",
+							"https://picsum.photos/200/200"
 						]
 					}
 				},
@@ -469,7 +469,7 @@
 					"name": "Garden",
 					"media": {
 						"urls": [
-							"url1"
+							"https://picsum.photos/150"
 						]
 					}
 				},
@@ -477,7 +477,7 @@
 					"name": "Guest Room",
 					"media": {
 						"urls": [
-							"url1"
+							"https://picsum.photos/150"
 						]
 					}
 				},
@@ -485,7 +485,7 @@
 					"name": "Bathroom",
 					"media": {
 						"urls": [
-							"url1"
+							"https://picsum.photos/150"
 						]
 					}
 				}
@@ -582,9 +582,9 @@
 					"name": "Bedroom",
 					"media": {
 						"urls": [
-							"url1",
-							"url2",
-							"url3"
+							"https://picsum.photos/150",
+							"https://picsum.photos/200",
+							"https://picsum.photos/200/200"
 						]
 					}
 				},
@@ -592,9 +592,9 @@
 					"name": "Toilet",
 					"media": {
 						"urls": [
-							"url1",
-							"url2",
-							"url3"
+							"https://picsum.photos/150",
+							"https://picsum.photos/200",
+							"https://picsum.photos/200/200"
 						]
 					}
 				},
@@ -602,9 +602,9 @@
 					"name": "Summer Kitchen",
 					"media": {
 						"urls": [
-							"url1",
-							"url2",
-							"url3"
+							"https://picsum.photos/150",
+							"https://picsum.photos/200",
+							"https://picsum.photos/200/200"
 						]
 					}
 				},
@@ -612,7 +612,7 @@
 					"name": "Garden",
 					"media": {
 						"urls": [
-							"url1"
+							"https://picsum.photos/150"
 						]
 					}
 				},
@@ -620,7 +620,7 @@
 					"name": "Guest Room",
 					"media": {
 						"urls": [
-							"url1"
+							"https://picsum.photos/150"
 						]
 					}
 				},
@@ -628,7 +628,7 @@
 					"name": "Bathroom",
 					"media": {
 						"urls": [
-							"url1"
+							"https://picsum.photos/150"
 						]
 					}
 				}
@@ -725,9 +725,9 @@
 					"name": "Bedroom",
 					"media": {
 						"urls": [
-							"url1",
-							"url2",
-							"url3"
+							"https://picsum.photos/150",
+							"https://picsum.photos/200",
+							"https://picsum.photos/200/200"
 						]
 					}
 				},
@@ -735,9 +735,9 @@
 					"name": "Toilet",
 					"media": {
 						"urls": [
-							"url1",
-							"url2",
-							"url3"
+							"https://picsum.photos/150",
+							"https://picsum.photos/200",
+							"https://picsum.photos/200/200"
 						]
 					}
 				},
@@ -745,9 +745,9 @@
 					"name": "Summer Kitchen",
 					"media": {
 						"urls": [
-							"url1",
-							"url2",
-							"url3"
+							"https://picsum.photos/150",
+							"https://picsum.photos/200",
+							"https://picsum.photos/200/200"
 						]
 					}
 				},
@@ -755,7 +755,7 @@
 					"name": "Garden",
 					"media": {
 						"urls": [
-							"url1"
+							"https://picsum.photos/150"
 						]
 					}
 				},
@@ -763,7 +763,7 @@
 					"name": "Guest Room",
 					"media": {
 						"urls": [
-							"url1"
+							"https://picsum.photos/150"
 						]
 					}
 				},
@@ -771,7 +771,7 @@
 					"name": "Bathroom",
 					"media": {
 						"urls": [
-							"url1"
+							"https://picsum.photos/150"
 						]
 					}
 				}
@@ -868,9 +868,9 @@
 					"name": "Bedroom",
 					"media": {
 						"urls": [
-							"url1",
-							"url2",
-							"url3"
+							"https://picsum.photos/150",
+							"https://picsum.photos/200",
+							"https://picsum.photos/200/200"
 						]
 					}
 				},
@@ -878,9 +878,9 @@
 					"name": "Toilet",
 					"media": {
 						"urls": [
-							"url1",
-							"url2",
-							"url3"
+							"https://picsum.photos/150",
+							"https://picsum.photos/200",
+							"https://picsum.photos/200/200"
 						]
 					}
 				},
@@ -888,9 +888,9 @@
 					"name": "Summer Kitchen",
 					"media": {
 						"urls": [
-							"url1",
-							"url2",
-							"url3"
+							"https://picsum.photos/150",
+							"https://picsum.photos/200",
+							"https://picsum.photos/200/200"
 						]
 					}
 				},
@@ -898,7 +898,7 @@
 					"name": "Garden",
 					"media": {
 						"urls": [
-							"url1"
+							"https://picsum.photos/150"
 						]
 					}
 				},
@@ -906,7 +906,7 @@
 					"name": "Guest Room",
 					"media": {
 						"urls": [
-							"url1"
+							"https://picsum.photos/150"
 						]
 					}
 				},
@@ -914,7 +914,7 @@
 					"name": "Bathroom",
 					"media": {
 						"urls": [
-							"url1"
+							"https://picsum.photos/150"
 						]
 					}
 				}
