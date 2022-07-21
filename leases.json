@@ -154,9 +154,9 @@
 					"name": "Bedroom",
 					"media": {
 						"urls": [
-							"https://picsum.photos/150",
 							"https://picsum.photos/200",
-							"https://picsum.photos/200/200"
+							"https://picsum.photos/200",
+							"https://picsum.photos/200"
 						]
 					}
 				},
@@ -164,9 +164,9 @@
 					"name": "Toilet",
 					"media": {
 						"urls": [
-							"https://picsum.photos/150",
 							"https://picsum.photos/200",
-							"https://picsum.photos/200/200"
+							"https://picsum.photos/200",
+							"https://picsum.photos/200"
 						]
 					}
 				},
@@ -174,9 +174,9 @@
 					"name": "Summer Kitchen",
 					"media": {
 						"urls": [
-							"https://picsum.photos/150",
 							"https://picsum.photos/200",
-							"https://picsum.photos/200/200"
+							"https://picsum.photos/200",
+							"https://picsum.photos/200"
 						]
 					}
 				},
@@ -184,7 +184,7 @@
 					"name": "Garden",
 					"media": {
 						"urls": [
-							"https://picsum.photos/150"
+							"https://picsum.photos/200"
 						]
 					}
 				},
@@ -192,7 +192,7 @@
 					"name": "Guest Room",
 					"media": {
 						"urls": [
-							"https://picsum.photos/150"
+							"https://picsum.photos/200"
 						]
 					}
 				},
@@ -200,7 +200,7 @@
 					"name": "Bathroom",
 					"media": {
 						"urls": [
-							"https://picsum.photos/150"
+							"https://picsum.photos/200"
 						]
 					}
 				}
@@ -228,6 +228,10 @@
 					"id": 1
 				},
 				{
+					"name": "Cooling",
+					"id": 3
+				},
+				{
 					"name": "Internet",
 					"id": 2
 				}
@@ -238,16 +242,24 @@
 					"id": 0
 				},
 				{
-					"name": "Lobby reception",
+					"name": "New amenity 1",
 					"id": 1
 				},
 				{
-					"name": "Covered parking",
+					"name": "New amenity 2",
 					"id": 2
 				},
 				{
-					"name": "Bike racks",
+					"name": "New amenity 3",
 					"id": 3
+				},
+				{
+					"name": "Covered parking",
+					"id": 4
+				},
+				{
+					"name": "Bike racks",
+					"id": 5
 				}
 			],
 			"facilities": [
@@ -260,7 +272,7 @@
 					"id": 1
 				},
 				{
-					"name": "Swiming Pool",
+					"name": "Swimming Pool",
 					"id": 2
 				},
 				{
@@ -270,6 +282,17 @@
 				{
 					"name": "Air Condition",
 					"id": 4
+
+				},
+				{
+					"name": "Floor Heating",
+					"id": 5
+
+				},
+				{
+					"name": "Floor Heating",
+					"id": 6
+
 				}
 			],
 			"nearby_landmarks": [
@@ -280,6 +303,23 @@
 				{
 					"name": "Wonder Gardens",
 					"id": 1
+				},
+				{
+					"name": "Pharmacy",
+					"id": 2
+				},
+
+				{
+					"name": "Mall",
+					"id": 3
+				},
+				{
+					"name": "Kids Playground",
+					"id": 4
+				},
+				{
+					"name": "Sushi Restaurant",
+					"id": 5
 				}
 			]
 		},
